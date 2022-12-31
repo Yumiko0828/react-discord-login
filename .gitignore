@@ -1,0 +1,14 @@
+# Node Modules
+node_modules/
+
+# Compiled Code
+dist/
+
+# Environment Variables
+.env
+
+# PNPM
+pnpm-lock.yaml
+
+# NPM
+package-lock.json
